@@ -1,0 +1,27 @@
+=====================================================
+ 이름		 학과 		     학번     	 점수 	 등수   
+=====================================================
+Kim,B.B      	 Art          	 2016-0098 	 100 	 1
+Kim,H.J      	 Computer     	 2017-1291 	 70 	 5
+Lee,L.A      	 Computer     	 2016-2363 	 70 	 5
+Choi,M.M     	 Computer     	 2017-0001 	 70 	 5
+Kim,J.K      	 Electricity  	 2017-6634 	 70 	 5
+Lee,L.C      	 Art          	 2013-2876 	 60 	 8
+Kim,S.S      	 Computer     	 2011-6543 	 60 	 8
+Hwang,L.O    	 Art          	 2015-1999 	 60 	 8
+Kang,K.M     	 Electricity  	 2016-5487 	 50 	 12
+Lee,Y.J      	 Computer     	 2015-2300 	 50 	 12
+Kim,M.B      	 Computer     	 2017-8231 	 50 	 12
+Lee,A.B      	 Electricity  	 2012-2234 	 50 	 12
+Choi,F.T     	 Computer     	 2017-1434 	 40 	 13
+Kim,F.G      	 Business     	 2015-1222 	 30 	 15
+Hwang,Q.Q    	 Computer     	 2017-7645 	 30 	 15
+Kim,H.H      	 Computer     	 2015-1854 	 20 	 17
+Kim,N.M      	 Computer     	 2017-1209 	 20 	 17
+=====================================================
+ 		학과		 인원 		 평균 
+=====================================================
+		Computer	  10		 48.00
+		Electricity 	  3		 56.67
+		Art 		  3		 73.33
+		Business 		  1		 30.00

@@ -1,0 +1,17 @@
+Kim,H.J Computer 2017-1291 1 3 3 1 2 3 1 2 1 4
+Lee,L.A Computer 2016-2363 1 3 1 1 2 3 1 2 1 4
+Kang,K.M Electricity 2016-5487 3 3 3 1 2 3 1 2 1 3
+Choi,M.M Computer 2017-0001 1 3 3 1 1 3 1 2 1 4
+Lee,Y.J Computer 2015-2300 1 3 3 1 2 4 1 4 1 4
+Lee,L.C Art 2013-2876 1 3 3 1 2 3 1 1 1 4
+Kim,S.S Computer 2011-6543 1 2 3 1 2 3 1 2 1 4
+Kim,B.B Art 2016-0098 1 3 2 1 4 3 3 2 1 4
+Kim,M.B Computer 2017-8231 1 3 3 1 2 1 1 1 1 4
+Hwang,L.O Art 2015-1999 2 3 3 1 2 3 1 2 1 4
+Kim,H.H Computer 2015-1854 4 4 4 4 4 4 4 4 4 4
+Kim,F.G Business 2015-1222 3 3 3 3 3 3 3 3 3 3
+Kim,N.M Computer 2017-1209 2 2 2 2 2 2 2 2 2 2
+Hwang,Q.Q Computer 2017-7645 1 1 1 1 1 1 1 1 1 1
+Kim,J.K Electricity 2017-6634 1 3 3 1 2 3 1 2 1 4
+Choi,F.T Computer 2017-1434 1 3 3 1 2 1 1 1 1 1
+Lee,A.B Electricity 2012-2234 3 3 3 1 2 3 1 2 3 4
