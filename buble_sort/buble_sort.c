@@ -20,6 +20,7 @@ for(i=0;i<10;i++){
 printf(" %d ",numarr[i]);   //정렬된 결과 출력 
 }
 }
+//test
 //버블 정렬 함수  
 void bubleSort(int arr[],int fnum){  // 입력으로 정수형 배열 정수(크기) 
 int i,j,temp,maxnum;
